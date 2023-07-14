@@ -1,0 +1,8 @@
+E:\C#\Exercises\Fruits_List\Fruits_List\bin\Debug\Fruits_List.exe.config
+E:\C#\Exercises\Fruits_List\Fruits_List\bin\Debug\Fruits_List.exe
+E:\C#\Exercises\Fruits_List\Fruits_List\bin\Debug\Fruits_List.pdb
+E:\C#\Exercises\Fruits_List\Fruits_List\obj\Debug\Fruits_List.csproj.AssemblyReference.cache
+E:\C#\Exercises\Fruits_List\Fruits_List\obj\Debug\Fruits_List.csproj.SuggestedBindingRedirects.cache
+E:\C#\Exercises\Fruits_List\Fruits_List\obj\Debug\Fruits_List.csproj.CoreCompileInputs.cache
+E:\C#\Exercises\Fruits_List\Fruits_List\obj\Debug\Fruits_List.exe
+E:\C#\Exercises\Fruits_List\Fruits_List\obj\Debug\Fruits_List.pdb
